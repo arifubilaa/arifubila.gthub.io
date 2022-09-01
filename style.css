@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* header */
+#latar{
+    background: #E7AB79;
+}
+.header{
+    overflow: hidden;
+    margin: 0 15px;
+}
+
+.wrapper{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo a{
+    color: #1A4D2E;
+    text-decoration: none;
+}
+
+.menu{
+    float: right;
+}
+
+         
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    padding: 35px 20px;
+    text-decoration: none;
+    color: #1A4D2E ;
+    border-radius: 20px;
+    font-family:'Roboto Slab', serif;
+    
+}
+
+li a:hover{
+    font-weight: 600;
+}
+/* header */
+
+/* hero */
+
+.hero{
+    overflow: hidden;
+}
+.heroleft{
+    float: left;
+    width: 70%;
+    font-family: 'Roboto', sans-serif;
+}
+.herorigth{
+    float: right;
+    width: 30%
+}
+
+img{
+    width: 30%
+}
+
+#logo{
+    font-weight: 600;
+    font-size: 6em;
+    color: #1A4D2E;
+    margin-bottom: 10px;
+}
+#p1{
+    line-height: 2em;
+    color: #1A4D2E;
+}
+
+#o1{
+    background-color: #1A4D2E;
+    color: aliceblue;
+    padding: 13px 50px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.5s;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+#o1:hover{
+    background: rgb(0, 33, 0);
+}
+/* hero */
+
+/* recipe */
+.recipe{
+    overflow: hidden;
+}
+.recipeleft{
+    float: right;
+    width: 70%;
+    font-family: 'Roboto', sans-serif;
+}
+.reciperigth{
+    float: left;
+    width: 30%
+}
+
+#logo2{
+    font-weight: 600;
+    font-size: 5em;
+    color: #1A4D2E;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+#st{
+    color: #E7AB79;
+}
+#p2{
+    line-height: 2em;
+    color: #1A4D2E;
+    padding-left: 30px;
+}
+
+#latar2{
+    background: white;
+}
+/* recipe */
+
+/* order */
+
+.order{
+    overflow: hidden;
+}
+.orderleft{
+    float: left;
+    width: 70%;
+    font-family: 'Roboto', sans-serif;
+}
+.orderrigth{
+    float: right;
+    width: 30%
+}
+#logo3{
+    font-weight: 600;
+    font-size: 5em;
+    color: #1A4D2E;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+#p3{
+    line-height: 2em;
+    color: #1A4D2E;
+    padding-left: 30px;
+}
+
+#latar3{
+    background:#E7AB79;
+}
+#st3{
+    color: #FFDCAE;
+}
+#akun{
+    padding: 50px 70px;
+     
+}
+#o2{
+    background-color: #1A4D2E;
+    color: aliceblue;
+    padding: 13px 50px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.5s;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+
+/* order */
+
+/* feature */
+.features{
+    margin: 5% 15px;
+}
+.feature{
+    width: 25%;
+    float: left;
+}
+#img1{
+    width: 80px;
+    padding-left: 45%;
+}
+#img2{
+    width: 80px;
+    padding-right: 40%;
+}
+
+#ul2{
+    margin-left: 33%;
+    padding: 0;
+    list-style: none;
+}
+
+.li2{
+    float: left;
+}
+
+.li2 a{
+    display: block;
+    padding: 25px 10px;
+    text-decoration: none;
+    color: #1A4D2E ;
+    font-family:'Roboto Slab', serif;
+    
+}
+
+.li2 a:hover{
+    font-weight: 600;
+}
+
+.latar4{
+    background:#1A4D2E;
+}
+
+/* feature */
